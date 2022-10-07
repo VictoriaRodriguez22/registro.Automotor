@@ -1,0 +1,23 @@
+{
+  "name": "registro.automotor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaRodriguez22/registro.Automotor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictoriaRodriguez22/registro.Automotor/issues"
+  },
+  "homepage": "https://github.com/VictoriaRodriguez22/registro.Automotor#readme",
+  "dependencies": {
+    "@types/node": "^18.8.3",
+    "readline-sync": "^1.4.10"
+  }
+}
